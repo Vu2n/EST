@@ -17,8 +17,6 @@ and performing basic rendering-related operations from an external process.
 - Can call device/context functions via vtables
 - FPS tracking via Present count
 
-Here's a segment you can add to the README under the **Features** section or as a separate **RemoteCall (RC) Wrapper** section:
-
 ---
 
 ## RemoteCall (RC) Wrapper
